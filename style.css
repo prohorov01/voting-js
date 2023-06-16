@@ -1,0 +1,20 @@
+h2{
+    padding-left: 30px;
+    font-size: 32px;
+  }
+  .smiley {
+    cursor: pointer;
+    font-size: 48px;
+    margin: 20px;
+    display: inline-block;
+    margin-bottom: 0px;
+  }
+  .count {
+    font-size: 24px;
+    text-align: center;
+    display: inline-block;
+    width: 48px;
+    height: 72px;
+    margin: 20px;
+    margin-top: 0px;
+  }
